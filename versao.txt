@@ -1,6 +1,6 @@
 Site Tec Lit, versão para abrir no navegador.
 
-Gerado em: 01/09/2026, 23:33:46
+Gerado em: 02/09/2026, 13:25:50
 Páginas: 58
 
 Abra o index.html desta pasta. Se a página abrir sem estilo ou com conteúdo antigo,
